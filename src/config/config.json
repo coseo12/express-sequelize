@@ -1,27 +1,27 @@
 {
   "development": {
-    "username": "sco",
-    "password": "sco1q2w#$",
+    "username": "",
+    "password": "",
     "database": "nodejs",
-    "host": "192.168.0.9",
+    "host": "192.168.0.0",
     "port": 3307,
     "dialect": "mariadb",
     "operatorsAliases": false
   },
   "test": {
-    "username": "sco",
-    "password": "sco1q2w#$",
+    "username": "",
+    "password": "",
     "database": "nodejs",
-    "host": "192.168.0.9",
+    "host": "192.168.0.0",
     "port": 3307,
     "dialect": "mariadb",
     "operatorsAliases": false
   },
   "production": {
-    "username": "sco",
-    "password": "sco1q2w#$",
+    "username": "",
+    "password": "",
     "database": "nodejs",
-    "host": "192.168.0.9",
+    "host": "192.168.0.0",
     "port": 3307,
     "dialect": "mariadb",
     "operatorsAliases": false
